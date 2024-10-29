@@ -20,7 +20,7 @@ export default function Home() {
         </div>
 
         <div id="message" className="text-center">
-          <h2>Happy Valentines Day Muunno {"<3"}</h2>
+          <h2>Happy Valentines Day {"<3"}</h2>
         </div>
 
         <div className="heart" id="heart2">
